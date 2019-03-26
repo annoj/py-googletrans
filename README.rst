@@ -1,6 +1,10 @@
 Googletrans
 ===========
 
+-----------------------------------------------
+Forked to add TOR proxying
+-----------------------------------------------
+
 |GitHub license| |travis status| |Documentation Status| |PyPI version|
 |Coverage Status| |Code Climate|
 
